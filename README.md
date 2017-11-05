@@ -2,7 +2,7 @@
 ## Getting
 Fork the repo then clone it to your local machine.
 ```
-git clone https://github.com/<your username>/toro-net.git
+git clone https://github.com/FlyBono24/toro-net.git
 ```
 
 Fork the repo then clone it to your local machine.
@@ -16,6 +16,9 @@ We assume that `$TOPDIR` is relative to the `toro-net` directory and all script 
 ```bash
 $ cd toro-net
 ```
+
+## Milestones
+Create the milestone under images/milestone.png
 
 ## Dependencies
 
